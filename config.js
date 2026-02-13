@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
+            text: "Maukah you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "yes",                                             // Text for "Yes" button
             noBtn: "no..?"                                                 // Text for "No" button
         }
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world!",
-        message: "Thank you so much Saraha, I never felt this love before. I hope we can still together till death seperate us apart. You never know how much you meant to me, you may never notice it but I always say your name when i get lonely, sad, or need support from the one who I love. Thank you so much for evertyhing you gave it to me.",
+        title: "Dear Saraha,",
+        message: "Thank you so much Saraha, I never felt this love before. I hope we can still together till death seperate us apart. You never know how much you meant to me, you may never notice it but I always say your name when i get lonely, sad, or need support from the one who I love. Thank you so much for everything you gave it to me.",
     },
 
     // Color scheme for the website
